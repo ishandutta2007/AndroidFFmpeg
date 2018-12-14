@@ -119,3 +119,10 @@ Library made by Jacek Marchwicki from Appunite.com
 - Thanks to Cedric Fungfor his blog bost: http://vec.io/posts/use-android-hardware-decoder-with-omxcodec-in-ndk
 - Thanks Google/Google chrome/Chromium teams for libyuv library https://code.google.com/p/libyuv/
 - Thanks to Picker Wengs for this slides about android multimedia stack http://www.slideshare.net/pickerweng/android-multimedia-framework
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
